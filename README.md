@@ -34,8 +34,12 @@ report/
 Contains the final, consolidated Project Report summarizing my findings and reflections across all tasks.
 Important Links
 
-Digital Literacy Awareness Quiz: https://docs.google.com/forms/d/e/1FAIpQLSfd3TdolAxfmXGiAgGuipyHmxc56qfdKwgln221gboMxR_rzQ/viewform?pli=1&pli=1
+Digital Literacy Awareness Quiz: https://docs.google.com/forms/d/e/1FAIpQLSfd3TdolAxfmXGiAgGuipyHmxc56qfdKwgln221gboMxR_rzQ/viewform?pli=1&pli=1     
+
+
 My LinkedIn Profile: https://www.linkedin.com/in/jagan-mohan-reddy-8313b9382/?isSelfProfile=true&locale=te-IN
+
+
 Tools and Platforms Used:
 
 Canva: Designed the Digital Literacy Awareness Infographic.
