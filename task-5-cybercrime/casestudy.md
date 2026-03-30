@@ -1,4 +1,4 @@
-ase Study: UPI Payment Fraud (The "Refund" Scam) What it is: UPI payment fraud occurs when malicious actors manipulate victims into authorizing direct money transfers from their bank accounts using Unified Payments Interface (UPI) applications (such as Google Pay, PhonePe, or Paytm), often under the deceptive guise of sending the victim a refund, cashback, or prize.
+case Study: UPI Payment Fraud (The "Refund" Scam) What it is: UPI payment fraud occurs when malicious actors manipulate victims into authorizing direct money transfers from their bank accounts using Unified Payments Interface (UPI) applications (such as Google Pay, PhonePe, or Paytm), often under the deceptive guise of sending the victim a refund, cashback, or prize.
 
 How it happens (Step-by-Step):
 
