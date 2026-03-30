@@ -1,4 +1,5 @@
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5a233887-bce5-4420-a0ec-2eb4ec5dc4f3" />
+
 I created a one-page infographic titled “Digital Skills for Students” using Canva as a quick and clear guide to essential digital skills. It covers key areas such as digital literacy, useful tools, online safety, professional online presence, and email etiquette, all organized using color-coded sections for easy understanding.
 
 
